@@ -1,0 +1,17 @@
+# Modelos treinados e dados gerados
+modelos/
+social_media_usage_tratado.csv
+social_media_usage.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
