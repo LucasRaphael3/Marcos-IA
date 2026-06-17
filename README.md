@@ -1,11 +1,11 @@
-# 📱 Vício em Redes Sociais e seu Impacto na Saúde Mental dos Jovens
+#  Vício em Redes Sociais e seu Impacto na Saúde Mental dos Jovens
 
 > Estudo de caso e pipeline de Machine Learning desenvolvido para o artigo científico da UNIMA Afya — 2025.  
 > Dataset: [Social Media Addiction & Mental Health (Kaggle)](https://www.kaggle.com/)
 
 ---
 
-## 📋 Sumário
+## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Estrutura do Repositório](#estrutura-do-repositório)
@@ -35,15 +35,15 @@ O objetivo é classificar o risco de vício em redes sociais (`Low / Medium / Hi
 ## Estrutura do Repositório
 
 ```
-📦 projeto/
+ projeto/
 │
-├── 📄 treat_data.py              # Pipeline de tratamento e limpeza dos dados
-├── 📄 ml_pipeline.py             # Pipeline de Machine Learning (treino + avaliação)
+├──  treat_data.py              # Pipeline de tratamento e limpeza dos dados
+├──  ml_pipeline.py             # Pipeline de Machine Learning (treino + avaliação)
 │
-├── 📁 data/                      # ← Coloque aqui os CSVs brutos do Kaggle
+├──  data/                      # ← Coloque aqui os CSVs brutos do Kaggle
 │   └── .gitkeep                  #   (pasta rastreada, CSVs ignorados pelo git)
 │
-├── 📁 tabelas_tratadas/          # Saída gerada pelo treat_data.py
+├──  tabelas_tratadas/          # Saída gerada pelo treat_data.py
 │   ├── social_media_usage_clean.csv
 │   ├── mental_health_trends_clean.csv
 │   ├── screen_time_behavior_clean.csv
@@ -56,8 +56,8 @@ O objetivo é classificar o risco de vício em redes sociais (`Low / Medium / Hi
 │   ├── future_psychological_forecast_clean.csv
 │   └── modeling_dataset_teen_young_adult.csv  # Dataset principal de modelagem
 │
-├── 📄 relatorio_tratamento.md    # Relatório de qualidade gerado pelo treat_data.py
-└── 📄 .gitignore
+├──  relatorio_tratamento.md    # Relatório de qualidade gerado pelo treat_data.py
+└──  .gitignore
 ```
 
 ---
