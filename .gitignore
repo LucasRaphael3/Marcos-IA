@@ -1,5 +1,6 @@
-# ── Dados brutos do Kaggle (não versionar — coloque em data/)
-data/
+# ── Dados brutos do Kaggle (não versionar — coloque os CSVs em data/)
+# A pasta data/ é rastreada (com .gitkeep), mas os CSVs brutos são ignorados
+data/*.csv
 
 # ── Modelos treinados e arquivos temporários
 modelos/
