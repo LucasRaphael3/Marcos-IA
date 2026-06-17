@@ -196,4 +196,4 @@ As 10 tabelas são **datasets sintéticos independentes** — não existe chave 
 
 ---
 
-**Autor:** Guilherme · UNIMA Afya — 2025
+**Autor:** Guilherme · UNIMA Afya — 2026
