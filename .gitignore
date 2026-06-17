@@ -1,17 +1,28 @@
-# Modelos treinados e dados gerados
+# ── Dados brutos do Kaggle (não versionar — coloque em data/)
+data/
+
+# ── Modelos treinados e arquivos temporários
 modelos/
 social_media_usage_tratado.csv
 social_media_usage.csv
 
-# Python
+# ── Python
 __pycache__/
 *.py[cod]
 *.pyo
+*.egg-info/
+dist/
+build/
 .env
 venv/
 .venv/
 
-# IDEs
+# ── macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── IDEs
 .vscode/
 .idea/
 *.iml
