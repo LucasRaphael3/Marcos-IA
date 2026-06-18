@@ -1,7 +1,7 @@
 #  Vício em Redes Sociais e seu Impacto na Saúde Mental dos Jovens
 
-> Estudo de caso e pipeline de Machine Learning desenvolvido para o artigo científico da UNIMA Afya — 2025.  
-> Dataset: [Social Media Addiction & Mental Health (Kaggle)](https://www.kaggle.com/)
+> Estudo de caso e pipeline de Machine Learning desenvolvido para o artigo científico da UNIMA Afya — 2026.  
+> Dataset: [Social Media Addiction & Mental Health (Kaggle)]([https://www.kaggle.com/](https://www.kaggle.com/datasets/abdulmaliklodhra/social-media-addiction-and-mental-health-dataset))
 
 ---
 
